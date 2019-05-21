@@ -15,10 +15,10 @@ func main() {
 	println(" Starting...")
 
 	hashtag := "#StardewValleyCommunityGamePlay"
-	consumerKey := "CONSUMER_KEY"
-	consumerSecret := "CONSUMER_SECRET"
-	tokenStr := "TOKEN"
-	tokenSecret := "TOKEN_SECRET"
+	consumerKey := "Adp7EPVRLHlZA2SQwH0MxukzZ"
+	consumerSecret := "BFXhXUXNnDsedHggXWDWah0pU6b1k4EqM59F2yLHlEKe0gcomj"
+	tokenStr := "54723793-3AbtX0lTCzZ9H9X26jKLfpbFah9viNHqP32v7G6TM"
+	tokenSecret := "XHMXDotstZndYA6eVUPUVq3mPsP5ecCLk4IsrqlUEDAoV"
 
 	kb, err := keybd_event.NewKeyBonding()
 	if err != nil {
